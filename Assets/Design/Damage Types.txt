@@ -1,0 +1,15 @@
+Damage Types
+
+Slashing (can induce bleeding)
+Piercing (critical hits)
+Blunt/Impact (stun)
+Elemental
+	Fire (DoT component)
+	Ice (Chilled / Frozen)
+	Lightning (Stuns)
+	Earth
+Damage over Time
+	Poison
+	Plague (Spreads)
+	Bleeding
+	Burning

@@ -1,0 +1,24 @@
+NC Crafting
+
+Research
+
+Research Tool
+Research Skill
+Empty Datacube
+
+--> Blueprint
+
+Construction
+Blueprint
+Parts
+
+--> Item
+
+Recycling
+
+Input: Junk
+Schematic: Part
+
+--> Parts
+
+

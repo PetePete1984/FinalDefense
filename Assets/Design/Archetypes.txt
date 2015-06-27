@@ -1,0 +1,18 @@
+Archetypes
+
+Fantasy
+# Warrior
+# Mage
+# Archer
+# Priest
+# Templar
+# Berserker
+# Rogue
+# Ninja
+
+Cyberpunk
+# Ganger
+# Street Samurai
+# Cybermage
+# Hacker
+# Rigger

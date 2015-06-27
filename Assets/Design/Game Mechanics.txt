@@ -1,0 +1,21 @@
+Game Mechanics
+
+# The player can create a character
+# The player can control a character
+# The player can change the equipment of a character
+# Characters have a starting class
+# Characters can move around (8 dir)
+#	Movement is not restricted to tiles
+# Characters can attack
+# Characters can take damage
+# Characters can take damage over time
+# Characters can heal damage
+# Characters can heal damage over time
+# Characters can loot items
+# Characters have stats
+#	health, max health
+# Characters have a name
+# Characters have equipment slots
+
+# The world is made up of tiles
+# Tiles are walkable or blocking movement

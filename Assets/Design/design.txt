@@ -1,0 +1,37 @@
+Inspiration
+	Final Fantasy / Mystic Quest Legend (World Map, Towns, Dungeons, Battle)
+	X-COM (Setting, Squad Management, Base Management)
+	Neocron (Research, Crafting)
+	
+Alternatives
+	Leveling
+		Fallout
+			- Limited stats
+			- Skills and skill points
+			- skill points are earned on levelup
+		MQL
+			- Exp thresholds & defined stats
+		Neocron
+			- Stats increase by using stat-specific gear or skills
+			- Skill points are granted on stat increase and can be distributed freely
+			- Overall Level is the average of all stats
+		Skyrim
+			- Skill categories increase by using their skills
+			- Perks can be enabled at select thresholds
+
+
+General
+	Exploration / Town / Dungeon Zones
+		Peaceful
+			- visible NPCs
+		Tactical / Infiltration / Low-Security
+			- visible enemies (idle or moving roguelike-style)
+		Caution Zone / Alerted / High-Security
+			- visible enemies (moving on their own or ambushing)
+		Danger Zone
+			- invisible enemies, random battles
+			
+Transition Effects
+	Battle Scene moves into sight from the top, your characters jump into it
+	White boxes randomly distributed which get blurred (initiate battle screen)
+	Yellow blotches that melt into a gold ingot (get loot screen)
